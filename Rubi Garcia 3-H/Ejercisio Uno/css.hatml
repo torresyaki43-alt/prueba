@@ -1,0 +1,12 @@
+CSS
+body{
+  background-color:#f0f0f0;/*cambia de color de fondo de toda la pagina */
+  font-family:Arial,sans-serif;/* Define el tipo de letra */
+}
+
+h1{
+  color:#333;/* Cambia el color del texto a un gris oscuro */
+  tex-aling:center;/*Centra el texto */
+}
+
+p{
